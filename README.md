@@ -35,5 +35,5 @@ Create a file database.sqlite
 #### You are good to go ! :rocket:
 
 
-#### editing the sqlite file
+#### Opening the sqlite file
 You can download [Heidisql](https://www.heidisql.com/) and open the database.sqlite file. It is a powerful database client

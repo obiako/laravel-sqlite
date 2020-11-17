@@ -1,7 +1,7 @@
 # Using SQLite in Laravel App
 
 #### Introduction
-You can use SQLite in your Laravel Application, it easy to setup.
+You can use SQLite in your Laravel Application, it is easy to set up.
 
 
 #### Step 1 - Change DB Connection in .env
